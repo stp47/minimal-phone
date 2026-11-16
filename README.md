@@ -24,7 +24,12 @@ Release builds run in GitHub Actions via `.github/workflows/release.yml`.
 Required secrets: `KEYSTORE_BASE64`, `KEYSTORE_PASSWORD`, `KEY_ALIAS`,
 `KEY_PASSWORD`.
 
-Push a `v*` tag to build and attach the APK to a GitHub Release.
+Push a `v*` tag to build and attach the APK to a GitHub Release:
+
+```sh
+git tag v1.0
+git push origin v1.0
+```
 
 Local debug build with Gradle 8.14.6 and JDK 17:
 
