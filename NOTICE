@@ -1,0 +1,21 @@
+Minimal Phone
+
+Copyright (C) 2026 Minimal Phone contributors
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later
+version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+This application is based on and derives portions of its implementation from
+Seca (https://github.com/arditore/Seca), licensed under the GNU General Public
+License version 3.
+
+The full license text is provided in the LICENSE file.
+
+The application icon is based on the Material Icons "call" glyph,
+Copyright Google LLC, licensed under the Apache License, Version 2.0.
